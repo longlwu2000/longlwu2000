@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luu Hoang Long</h1>
 <h3 align="center">A passionate full-stack developer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=longlwu2000&label=Profile%20views&color=0e75b6&style=flat" alt="longlwu2000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=longlwu2000" alt="longlwu2000" /></a> </p>
-
 - 🔭 I’m currently working on [EZ League - A Sports Management Company](https://ezactive-ezleague.web.app/home)
 
 - 👨‍💻 All of my projects are available at [https://luuhoanglong0508.web.app/](https://luuhoanglong0508.web.app/)
