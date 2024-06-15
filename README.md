@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luu Hoang Long</h1>
 <h3 align="center">A passionate full-stack developer from VietNam</h3>
 
-- 🔭 I’m currently working on [EZ League - A Sports Management Company](https://ezactive-ezleague.web.app/home)
+<!-- - 🔭 I’m currently working on [EZ League - A Sports Management Company](https://ezactive-ezleague.web.app/home)
 
 - 👨‍💻 All of my projects are available at [https://luuhoanglong0508.web.app/](https://luuhoanglong0508.web.app/)
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://luuhoanglong0508.web.app/](https://luuhoanglong0508.web.app/)
 
-- ⚡ Fun fact **I think I sing well**
+- ⚡ Fun fact **I think I sing well** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
